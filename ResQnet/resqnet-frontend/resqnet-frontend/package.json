@@ -1,0 +1,27 @@
+{
+  "name": "resqnet-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.23.22",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.545.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.30.1",
+    "sweetalert2": "^11.24.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.18",
+    "vite": "^4.5.0"
+  }
+}
